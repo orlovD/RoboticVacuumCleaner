@@ -1,4 +1,4 @@
-# Robotic-Vacuum-Cleaner
+# Robotic Vacuum Cleaner
 Design and implementation of Robotic Vacuum Cleaner using C++ tools.
 Techniques used: OOP, Design Patterns, Smart Pointers, Multi-Thread Programming, Run time Class Loading using Dynamic Library Loading and  Boost Library.
 GUI development for visual control of the cleaning process.
