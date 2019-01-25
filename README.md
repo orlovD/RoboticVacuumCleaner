@@ -6,4 +6,4 @@ Implementation of effective cleaning algorithms for best results in shortest tim
 Participating in the algorithmic competition among all students in the class.
 
 ## Demo
-[![Sample Run](https://raw.githubusercontent.com/orlovD/RoboticVacuumCleaner/master/robotDemo.gif)](https://orlovd.github.io/BaLiSeret/)
+[![Sample Run](https://raw.githubusercontent.com/orlovD/RoboticVacuumCleaner/master/robotDemo.gif)](https://youtu.be/fobaeZ4Zzko/)
