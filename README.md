@@ -5,3 +5,5 @@ GUI development for visual control of the cleaning process.
 Implementation of effective cleaning algorithms for best results in shortest time. 
 Participating in the algorithmic competition among all students in the class.
 
+## Demo
+[![Demo CountPages alpha](https://gifs.com/gif/robotdemosmall01-oVRXnY)](https://youtu.be/fobaeZ4Zzko)
