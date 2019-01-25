@@ -6,4 +6,4 @@ Implementation of effective cleaning algorithms for best results in shortest tim
 Participating in the algorithmic competition among all students in the class.
 
 ## Demo
-[![Demo CountPages alpha](https://gifs.com/gif/robotdemosmall01-oVRXnY)](https://youtu.be/fobaeZ4Zzko)
+[![Sample Run](https://gifs.com/gif/robotdemosmall01-oVRXnY)](https://youtu.be/fobaeZ4Zzko)
